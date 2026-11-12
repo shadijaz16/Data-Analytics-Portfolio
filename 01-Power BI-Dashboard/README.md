@@ -11,5 +11,5 @@ Power BI.
 - Data Visualization
 
 ## Dashboard Preview
-! [Power BI Dashboard]
-(powerbi-dashboard.png)
+The dashboard image will be displayed
+here.
